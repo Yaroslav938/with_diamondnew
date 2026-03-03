@@ -1,5 +1,5 @@
-biopython
-openpyxl
-plotly
-pandas
 streamlit
+pandas
+biopython
+plotly
+openpyxl
