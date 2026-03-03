@@ -3,4 +3,4 @@ openpyxl
 plotly
 pandas
 streamlit
-shutil
+
